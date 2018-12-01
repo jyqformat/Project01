@@ -4,7 +4,7 @@ import java.sql.DriverManager;
 
 public class DataBaeseTest {
     public static final String DBDRIVER = "com.mysql.cj.jdbc.Driver";
-    public static final String DBURL = "jdbc:mysql://120.78.206.203:3306/user?serverTimezone=UTC&characterEncoding=utf-8";
+    public static final String DBURL = "jdbc:mysql://localhost:3306/user?serverTimezone=UTC&characterEncoding=utf-8";
     public static final String DBUSER = "root";
     public static final String DBPASSWORD = "jyq6311026";
 
