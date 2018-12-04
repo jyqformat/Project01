@@ -6,7 +6,7 @@ import java.sql.Statement;
 
 public class  Commit {
     public static void Commit(){
-        Connection connection = null;
+        Connection connection = DBUtil.getCon();
         try{
             connection.setAutoCommit(false);
             Statement statement =connection.createStatement();
