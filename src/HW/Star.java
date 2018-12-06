@@ -26,7 +26,7 @@ class MyPanel extends Panel{
         super.paint(g);
         g.setColor(Color.white);
         for (int i = 0;i<300;i++){
-            g.drawString("郭宏涛",(int)(Math.random()*1366),(int)(Math.random()*768));
+            g.drawString("ght", (int) (Math.random() * 1366), (int) (Math.random() * 768));
         }
     }
 
