@@ -2,7 +2,6 @@ package DB;
 
 import java.sql.Connection;
 import java.sql.*;
-import java.util.List;
 
 public class Batch {
     public static void Batch() {
@@ -21,4 +20,5 @@ public class Batch {
         }
 
     }
+
 }

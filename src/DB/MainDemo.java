@@ -9,6 +9,7 @@ public class MainDemo {
 
         // 通过JDBC一系列的操作
 //        Batch.Batch();  // 批处理
+//        aBatch.aBatch();
         Commit.Commit();  // 事物操作
 //        User u = new User(); // 插入一条
 //        u.setLoginName("fs");

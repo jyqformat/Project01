@@ -41,7 +41,7 @@ public class pageSize {
             e.printStackTrace();
         }
     }
-    public static int chekUser(int id, String pwd) {
+    public static int checkUser(int id, String pwd) {
         Connection con = DBUtil.getCon();
         String sql = "{call checkUser(?,?,?)}";
         CallableStatement cst;

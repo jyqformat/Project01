@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/src/Class/DOM4JUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Class/EntityORMUtil.java" charset="GBK" />
     <file url="file://F:/Go/download/352251927_971356583/用微课学●Java高级开发（45071-00）电子资源/45071-00用微课学●Java高级开发电子资源（视频不能发送）/用微课学Java高级代码/tarena_gaoji_java/src/chapter_03/code_02/Lottery.java" charset="GBK" />
   </component>
 </project>
