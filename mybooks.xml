@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="gb2312"?>
+<book>
+    <book ISDN="1001" catalog="武侠">
+        <title lang="zh">天龙八部</title>
+        <author>金庸</author>
+        <price>60</price>
+        <year>1965</year>
+    </book>
+    <book ISDN="1002" catalog="武侠">
+        <title lang="zh">西游记</title>
+        <author>吴承恩</author>
+        <price>60</price>
+        <year>明朝中期</year>
+    </book>
+</book>
